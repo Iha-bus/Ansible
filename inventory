@@ -1,3 +1,5 @@
-52.151.192.35
-20.93.33.89
-20.197.11.35
+[azure_vms]
+Ihab@20.197.11.35 ansible_ssh_private_key_file=~/Ansible3_key.pem
+Ihab@52.151.192.35 ansible_ssh_private_key_file=~/Ihab_key.pem
+Ihab@20.93.33.89 ansible_ssh_private_key_file=~/Ansible21_key.pem
+
